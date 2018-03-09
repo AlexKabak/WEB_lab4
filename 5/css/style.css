@@ -1,0 +1,91 @@
+body{
+    border: 4px solid #3366ff; 
+    width: 600px;
+    height: 450px;
+}
+.left{
+    width: 198px;
+    float: left;
+}
+.center{
+    width: 198px;
+    float: left;
+}
+.right{
+    width: 198px;
+    float: right;
+}
+.text11{font-size: 36px;
+    font-family: Roboto;
+    margin-top:20p;
+} 
+.text12{font-size: 36px;
+    font-family: Roboto;
+    margin-top: -30px;
+    margin-left: 75px;
+} 
+.text13{font-size: 36px;
+    font-family: Roboto;
+    margin-top: 84px;
+    margin-left: 55px;
+} 
+
+.text2{font-size: 36px;
+    font-family: Roboto;
+    margin-top: -45px;
+    margin-left: 60px;
+} 
+.text3{font-size: 36px;
+    font-family: Roboto;
+    margin-top: -55px;
+    margin-left: 70px;
+}
+.kub11{
+    background: #3366ff;
+    width: 36px;
+    height: 36px;
+    float: left;
+    margin-left: 4px;
+    margin-top: 40px;
+}
+.kub12{
+    background: #3366ff;
+    width: 36px;
+    height: 36px;
+    float: left;
+    margin-left: 45px;
+    margin-top: -30px
+}
+.kub13{
+    background: #3366ff;
+    width: 36px;
+    height: 36px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 4px;
+}
+.kub2{
+    background: #3366ff;
+    width: 36px;
+    height: 36px;
+    float: none;
+    margin-top: 150px;
+    margin-left:110px;
+    
+}
+.kub3{
+    background: #3366ff;
+    width: 36px;
+    height: 36px;
+    float: none;
+    margin-top: 225px;
+    margin-left: 90px;
+}
+.line{
+    margin-top: 15px;
+    float: left;
+    height: 400px;/*высота*/ 
+    width: 1px;/*толщина*/
+    background-color: #3366ff;;
+    
+}
